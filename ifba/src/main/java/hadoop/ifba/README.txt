@@ -1,0 +1,16 @@
+Trabalho da disciplina INF628[2015]
+Aluno: Ailton Filho 
+Prof.: Sandro
+  
+Objetivo: Aplicação de Design Patterns para sistemas MapReduce
+Atividades:
+  
+  		- Realizar filtro dos usuários brasileiros [ok]
+  		- Realizar reduce side join (inner join) com dataset de posts [ok]
+  		- Obter os top ten usuários que mais postaram [ok]
+  		- Realizar join exibindo id do usuario, displayName e dados da outra tabela do join [ok]
+  
+OBSERVAÇÕES: 
+  		- Executar o comando: mvn clean install p/ compilar projeto e gerar o arquivo .jar
+  		- hadoop jar nome_do_jar.jar hadoop.ifba.Inf628 [INPUT_PATH_FILTER] [INPUT_PATH_POSTS]
+ 
