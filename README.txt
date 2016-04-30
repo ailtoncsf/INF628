@@ -2,7 +2,7 @@ Trabalho da disciplina INF628[2015]
 Aluno: Ailton Filho 
 Prof.: Sandro
   
-Objetivo: Aplicação de Design Patterns para sistemas MapReduce
+Objetivo: Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
 Atividades:
   
   		- Realizar filtro dos usuários brasileiros [ok]
