@@ -12,5 +12,5 @@ Atividades:
   
 OBSERVAÇÕES: 
   		- Executar o comando: mvn clean install p/ compilar projeto e gerar o arquivo .jar
-  		- hadoop jar nome_do_jar.jar hadoop.ifba.Inf628 [INPUT_PATH_FILTER] [INPUT_PATH_POSTS]
+  		- Para executar os JOBS: hadoop jar nome_do_jar.jar hadoop.ifba.Inf628 [INPUT_PATH_FILTER] [INPUT_PATH_POSTS]
  
