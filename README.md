@@ -9,7 +9,6 @@
 ### Objetivo: 
  - Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
 #### Atividades:
-  
   		- Realizar filtro dos usuários brasileiros [ok]
   		- Realizar reduce side join (inner join) com dataset de posts [ok]
   		- Obter os top ten usuários que mais postaram [ok]
