@@ -6,7 +6,8 @@
  - Aluno: Ailton Filho 
  - Prof.: Sandro
   
-### Objetivo: Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
+### Objetivo: 
+ - Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
 #### Atividades:
   
   		- Realizar filtro dos usuários brasileiros [ok]
