@@ -16,6 +16,6 @@
 	- Realizar join exibindo id do usuario, displayName e dados da outra tabela do join [ok]
   
 #### Observações: 
-        - Executar o comando: mvn clean install p/ compilar projeto e gerar o arquivo .jar
-  	- Para executar os JOBS: hadoop jar nome_do_jar.jar hadoop.ifba.Inf628 [INPUT_PATH_FILTER] [INPUT_PATH_POSTS]
+	- Executar o comando: mvn clean install p/ compilar projeto e gerar o arquivo .jar
+	- Para executar os JOBS: hadoop jar nome_do_jar.jar hadoop.ifba.Inf628 [INPUT_PATH_FILTER] [INPUT_PATH_POSTS]
  
