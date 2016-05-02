@@ -1,10 +1,10 @@
 # Patterns for MapReduce Applications
 
-Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - GSORT
-Curso: Pós graduação em Computação Ubíqua e Distribuída
-Disciplina: INF628[2015] 
-Aluno: Ailton Filho 
-Prof.: Sandro
+##Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - GSORT
+ - Curso: Pós graduação em Computação Ubíqua e Distribuída
+ - Disciplina: INF628[2015] 
+ - Aluno: Ailton Filho 
+ - Prof.: Sandro
   
 ## Objetivo: Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
 ## Atividades:
