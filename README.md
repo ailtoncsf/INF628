@@ -2,9 +2,9 @@
 
 ##Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - GSORT
  - Curso: Pós graduação em Computação Ubíqua e Distribuída
- - Disciplina: INF628 [Engenharia de Software para Sistemas Distribuídos] 2015
+ - Disciplina: INF628 [Engenharia de Software para Sistemas Distribuídos]
  - Aluno: Ailton Filho 
- - Prof.: Sandro
+ - Prof.: Sandro Andrade
   
 ### Objetivo: 
  - Aplicação de Design Patterns para sistemas MapReduce utilizando DataSets do StackOverFlow.
