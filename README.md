@@ -2,7 +2,7 @@
 
 ##Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - GSORT
  - Curso: Pós graduação em Computação Ubíqua e Distribuída
- - Disciplina: INF628 [2015] 
+ - Disciplina: INF628 [Engenharia de Software para Sistemas Distribuídos] 2015
  - Aluno: Ailton Filho 
  - Prof.: Sandro
   
